@@ -1,9 +1,6 @@
-This is a raphael spike in order to demonstrate how easier raphael.js is to use.
-download:
-g.raphael.js
-g.line.js
-raphael.js
-jquery.js
+This is a spike using the g.raphael.js library
 
-include them in a html page
-
+Required submodule files:
+  raphael.js
+  g.raphael.js
+  g.line.js
