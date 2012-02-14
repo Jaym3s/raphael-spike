@@ -1,0 +1,9 @@
+This is a raphael spike in order to demonstrate how easier raphael.js is to use.
+download:
+g.raphael.js
+g.line.js
+raphael.js
+jquery.js
+
+include them in a html page
+
